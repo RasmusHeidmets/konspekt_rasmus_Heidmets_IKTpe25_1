@@ -12,3 +12,4 @@ C:\Users\opilane\source\repos\konspekt_rasmus_Heidmets_IKTpe25_1\konspekt\obj\De
 C:\Users\opilane\source\repos\konspekt_rasmus_Heidmets_IKTpe25_1\konspekt\obj\Debug\net9.0\konspekt.pdb
 C:\Users\opilane\source\repos\konspekt_rasmus_Heidmets_IKTpe25_1\konspekt\obj\Debug\net9.0\konspekt.genruntimeconfig.cache
 C:\Users\opilane\source\repos\konspekt_rasmus_Heidmets_IKTpe25_1\konspekt\obj\Debug\net9.0\ref\konspekt.dll
+C:\Users\opilane\source\repos\konspekt_rasmus_Heidmets_IKTpe25_1\konspekt\obj\Debug\net9.0\konspekt.sourcelink.json
