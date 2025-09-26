@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("konspekt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9d52e1a488127d028f4b632fd65c368c02a0d6e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7ff049abcb15106ab06c05ea6dcc224b9922ff3")]
 [assembly: System.Reflection.AssemblyProductAttribute("konspekt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("konspekt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
